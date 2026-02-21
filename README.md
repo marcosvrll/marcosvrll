@@ -1,16 +1,40 @@
-## Hi there 👋
+Olá 👋 Eu sou o Marcos Vinicius
 
-<!--
-**marcosvrll/marcosvrll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Análise e Desenvolvimento de Sistemas
+🚀 Foco em TI, Segurança, QA e Inteligência Artificial.
 
-Here are some ideas to get you started:
+👨‍💻 Sobre mim
+Atualmente curso Análise e Desenvolvimento de Sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em Segurança, QA, Inteligência Artificial, e Python.
+
+Busco evoluir para áreas como:
+
+Desenvolvedor Júnior
+
+QA
+
+Inteligência Artificial
+
+Automação com Python
+
+🚀 Tecnologias e Ferramentas
+💻 Linguagens
+Python
+C
+Java
+📊 Dados
+Power BI
+
+Excel Avançado
+
+💼 Experiência
+🏢 Segurpro - AM (Atual)
+Administrativo
+
+Organização e arquivamento de documentos (nível Brasil).
+Criava e controlava planilhas (incluindo documentos de SESMT e RH).
+Realizava pedidos de adiantamento, reembolso e prestação de contas no sistema ERP Oracle.
+📫 Contato
+📧 marcosrodriguesvfx@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/marcos-vinicius-6853491a0/
